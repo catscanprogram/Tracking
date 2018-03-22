@@ -14,7 +14,7 @@ You can find a demo of the color webcam [here](https://vimeo.com/259095753)!
 
 **UPDATE!**
 
-A new version of the code has been added with various improvements. The duotone becomes a permanent filter once applied. Aditional color comparisions were added in addition to the comparison with the background. 
+The code has been updated and can be found in the code folder. The duotone becomes a permanent filter once applied. Aditional color comparisions were added in addition to the comparison with the background. 
 
 An attempt was made to implement a more visually accurate color comparison using lab space, however, implementation was not successful. The filter still flickers when an object goes from being held in front of the screen to off screen. Hopefully these persisting problems can soon be solved. 
 
